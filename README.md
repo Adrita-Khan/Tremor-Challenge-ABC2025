@@ -117,20 +117,7 @@ By analyzing these activities using multimodal sensor data (smartwatch, mobile a
    - Maintain detailed documentation of methodologies, experiments, and results.
    - Prepare a paper based on experiments for submission following challenge guidelines.
 
----
 
 
 ---
-
-
-
----
-
-## License
-
-This repository and its contents are provided solely for participation in the ABC Challenge and should not be used or distributed outside of this context in accordance with the data usage policy.
-
----
-
-*For any questions or further clarifications, please contact the challenge organizers or refer to the official communication received from the University of East London.*
 
