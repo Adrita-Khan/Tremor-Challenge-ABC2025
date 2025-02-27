@@ -95,27 +95,6 @@ By analyzing these activities using multimodal sensor data (smartwatch, mobile a
 
 ---
 
-## Usage Guidelines
-
-1. **Data Loading**: 
-   - Follow the structure as outlined in the dataset description.
-   - Use provided CSV files and labels to link sensor data with corresponding activities.
-   
-2. **Preprocessing**:
-   - Clean and preprocess sensor data (e.g., handling missing values, normalizing sensor readings).
-   - Align sensor data timestamps with activity intervals from `TrainActivities.csv`.
-   
-3. **Model Development**:
-   - Develop and train classification models using appropriate machine learning or deep learning frameworks.
-   - Experiment with various architectures and feature extraction methods to handle multimodal data.
-
-4. **Evaluation**:
-   - Validate models using cross-validation and appropriate metrics.
-   - Prepare for final testing once test data is provided on January 20, 2025.
-
-5. **Documentation**:
-   - Maintain detailed documentation of methodologies, experiments, and results.
-   - Prepare a paper based on experiments for submission following challenge guidelines.
 
 
 
